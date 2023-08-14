@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm [moving away from Github](https://sneak.berlin/20200307/the-case-against-microsoft-and-github/) and going to [Gitlab](https://gitlab.com/closey) where possible.
 
 <!--
 **Clos3y/Clos3y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
